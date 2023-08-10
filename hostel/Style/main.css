@@ -1,0 +1,50 @@
+
+body{
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+
+/* navabar styles*/
+.navbar{
+    width: 100%;
+    background-color: #f51874;
+    color: white;
+}
+.nav-link{
+    color: white !important;
+    font-weight: 500;
+    font-style: normal;
+    text-decoration: none;
+    text-transform: capitalize;
+    margin-left: 7.5;
+}
+.nav-item{
+    font-size: 18px;
+}
+.navbar-brand{
+    font-size: 22.74px;
+}
+
+/* Hero section */
+#hero{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+}
+table{
+    text-align: center;
+    border: 1px solid #f51874 !important;
+}
+th{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+td{
+    color: #f51874;
+    font-weight: 500;
+}
+form{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
